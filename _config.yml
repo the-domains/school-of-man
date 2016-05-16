@@ -1,0 +1,28 @@
+name: School of Man
+favicon: null
+layout_spectrum: 0.6048808335326612
+typography_spectrum: 0.10128703550435603
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.11109587806276977
+  lightness: 0.8721094601787627
+  saturation: 0.008521283511072397
+  rhythmicContrast: 0.7546429724898189
+purpose: []

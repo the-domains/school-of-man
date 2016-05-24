@@ -1,4 +1,7 @@
-layout_spectrum: 0.01702128
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -27,14 +30,11 @@ color:
     - '#778496'
     - '#99ADC6'
   rhythmicContrast: 0.7546429724898189
-typography_spectrum: 0.09787234
+typography_spectrum: 0.112766
 cta:
   bucket: null
   version: null
   domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+layout_spectrum: 0.5489362
 favicon: null
 name: School of Man

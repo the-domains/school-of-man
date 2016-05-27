@@ -1,11 +1,7 @@
-cta:
-  bucket: null
-  version: null
-  domain: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: School of Man
+favicon: null
+layout_spectrum: 0.606383
+typography_spectrum: 0.112766
 collections:
   - index:
       path: /
@@ -18,23 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.4851064
-  brandStrength: 0.4042553
-  lightness: 0.5765957
   brandColors:
     - '#FCFCFE'
     - '#D4CCC1'
     - '#100D14'
     - '#778496'
     - '#99ADC6'
+  brandStrength: 0.6875
+  lightness: 0.5765957
+  saturation: 0.4851064
   rhythmicContrast: 0.6085106
-typography_spectrum: 0.112766
-layout_spectrum: 0.606383
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: School of Man
+purpose: []
